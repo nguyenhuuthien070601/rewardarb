@@ -1,0 +1,30 @@
+  /* ! Large Screens  */
+  html {
+    font-size: 112.5%; /* 18px */
+    line-height: 1.45;
+  }
+
+
+  .preload-info-text{
+    font-size: var(--largeTextSize);
+  }
+
+  .gallery-card{
+    height: auto;
+  }
+
+  .gallery-card-image-wrapper >img {
+    width: 16rem;
+    height: 16rem;
+  }
+
+
+  .deck1-footer {
+    justify-self: end;
+}
+
+.preload-details-illustration-wrapper {
+  display: flex;
+  justify-content: center;
+  transform: scale(0.8);
+}
