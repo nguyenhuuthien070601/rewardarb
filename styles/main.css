@@ -201,7 +201,7 @@ h1.preload-info-title {
 .project-details {
   letter-spacing: -0.01ch;
   line-height: 2.1ch;
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   font-weight: 200;
 }
 
@@ -213,7 +213,7 @@ h1.preload-info-title {
 }
 
 .preload-details-illustration-wrapper > img {
-  width: 100%;
+  width: 50%;
   height: 80%;
 }
 
